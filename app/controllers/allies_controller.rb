@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+
 class AlliesController < ApplicationController
   # GET /allies
   # GET /allies.json
