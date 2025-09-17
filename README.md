@@ -11,6 +11,7 @@ README in: [Spanish](https://github.com/ifmeorg/ifme/blob/main/README-ES.md), [P
 
 
 # if-me.org  
+
 [if-me.org](https://www.if-me.org/) is a community for mental health experiences
 that encourages people to share their personal stories with trusted allies.
 Trusted allies are the people we interact with on a daily basis, including
@@ -65,6 +66,7 @@ Thank you to all our Open Collective backers!
 
 Thank you to all our sponsors! (please ask your company to also support this
 open source project by [becoming a sponsor](https://opencollective.com/ifme#sponsor))
+
 
 <section role="presentation">
   <a href="https://opencollective.com/ifme/sponsor/0/website" target="_blank"><img src="https://opencollective.com/ifme/sponsor/0/avatar.svg"></a>
