@@ -1,5 +1,5 @@
 FROM ruby:2.6.10
-
+ 
 RUN apt-get update -qq && \
     apt-get install -y build-essential cmake git tzdata libpq-dev  ruby-dev curl
 
