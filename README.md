@@ -44,6 +44,7 @@ Everyone is highly encouraged to [add themselves](https://github.com/ifmeorg/ifm
 
 ## Donate
 
+
 We also welcome financial contributions in full transparency on our
 [Open Collective](https://opencollective.com/ifme).
 Anyone can file an expense. If the expense makes sense for the development of
