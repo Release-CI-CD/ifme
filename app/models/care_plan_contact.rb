@@ -15,7 +15,7 @@ class CarePlanContact < ApplicationRecord
   USER_DATA_ATTRIBUTES = %w[
     id
     name
-    phone
+    phone 
     created_at
     updated_at
   ].map!(&:freeze).freeze
