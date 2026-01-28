@@ -6,7 +6,7 @@ sentimentBotToxicityThreshold: .7
 
 # *Required* Comment to reply with
 sentimentBotReplyComment: >
-  Please review our code of conduct and be respectful of everyone.
+  Please review our code of conduct and be respectful of everyone. 
 
 # Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
 
