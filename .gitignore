@@ -30,7 +30,7 @@
 *.swp
 
 # Ignore coverage results
-/coverage
+/coverage 
 
 # Ignore auto-generated JavaScript
 /public/javascripts
