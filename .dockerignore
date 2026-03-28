@@ -3,7 +3,7 @@
 .gitignore
 .gitkeep
 .keep
-git-hooks
+git-hooks 
 
 # logfiles and tempfiles
 coverage
