@@ -47,6 +47,7 @@ También agradecemos las contribuciones financieras con total transparencia en n
 [Joseph D. Marhee](https://www.patreon.com/user?u=2899171) y
 [Carol Willing](https://www.patreon.com/user?u=202458)!
 
+
 ¡Gracias a todos nuestros patrocinadores de Open Collective!
 [Become a backer!](https://opencollective.com/ifme#backer)
 
