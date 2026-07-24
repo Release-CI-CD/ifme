@@ -16,7 +16,7 @@ Trusted allies are the people we interact with on a daily basis, including.
 friends, family members, co-workers, teachers, and mental health workers.
  
 Dealing with mental health is what makes us human. But for a lot of us, it's a
-struggle to be open about it. Not everyone is a counsellor or therapist. The
+struggle to be open about it. Not everyone is a counsellor or therapist. The 
 people who we interact with everyday shape our emotions and behavior. Getting
 them involved in mental health treatment is the key to recovery. 
   
