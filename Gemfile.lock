@@ -7,7 +7,7 @@ GEM
       websocket-driver (>= 0.6.1)
     actionmailbox (6.0.4.8)
       actionpack (= 6.0.4.8)
-      activejob (= 6.0.4.8)
+      activejob (= 6.0.4.8) 
       activerecord (= 6.0.4.8)
       activestorage (= 6.0.4.8)
       activesupport (= 6.0.4.8)
