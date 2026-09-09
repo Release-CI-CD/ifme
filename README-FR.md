@@ -46,6 +46,7 @@ Merci a tous nos donateurs Open Collective! [Deviens un donateurs!](https://open
 
 <a href="https://opencollective.com/ifme#backers" target="_blank"><img  src="https://opencollective.com/ifme/backers.svg?width=890"></a>
 
+
 ### Sponsors
 
 Merci de demander a votre societé de supporter ce projet open source en [devenant un sponsor](https://opencollective.com/ifme#sponsor)).
