@@ -65,4 +65,5 @@ Merci de demander a votre societé de supporter ce projet open source en [devena
 
 ## License
 
+
 Le code source est sous licence GNU AGPLv3. Pour plus d'informations allez voir http://www.gnu.org/licenses/agpl-3.0.txt ou [LICENSE.txt](https://github.com/ifmeorg/ifme/blob/main/LICENSE.txt).
