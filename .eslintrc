@@ -2,7 +2,7 @@ ecmaFeatures:
   modules: true
   jsx: true
 
-env:
+env: 
   amd: true
   browser: true
   es6: true
