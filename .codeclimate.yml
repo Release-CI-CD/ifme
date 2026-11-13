@@ -10,7 +10,7 @@ plugins:
   duplication:
     enabled: true
     config:
-      languages:
+      languages: 
         ruby: {}
         javascript:
           mass_threshold: 80
